@@ -9,4 +9,5 @@
 .hdf5
 .zip
 
-/tmp
+/data/tmp
+/data/results
