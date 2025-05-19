@@ -3,11 +3,12 @@
 .mat
 .pkl
 .h5
-.hdf5
 .hdf
-.hdf5
 .hdf5
 .zip
 
 /data/tmp
 /data/results
+/boario/data/tmp
+/boario/data/results
+/boario/results
