@@ -12,3 +12,8 @@
 /boario/data/tmp
 /boario/data/results
 /boario/results
+
+# Specific large files to ignore
+boario/Zsliced_2009.csv
+boario/Ysliced_2009.csv
+boario/VAsliced_2009.csv
