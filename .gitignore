@@ -1,12 +1,21 @@
-.nc
-.csv
-.mat
-.pkl
-.h5
-.hdf5
-.hdf
-.hdf5
-.hdf5
-.zip
+# Data file extensions
+*.nc
+*.csv
+*.mat
+*.pkl
+*.h5
+*.hdf
+*.hdf5
+*.zip
 
-/tmp
+# Project data directories
+/data/
+/boario/data/
+/boario/results/
+/anomalies/
+
+# Specific large files
+boario/Zsliced_2009.csv
+boario/Ysliced_2009.csv
+boario/VAsliced_2009.csv
+
